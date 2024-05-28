@@ -1,0 +1,21 @@
+html{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#button{
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    height: auto;
+    line-height: normal;
+    overflow: visible;
+    padding: 10px;
+    border-radius: 2px;
+    font-weight: 900;
+}
